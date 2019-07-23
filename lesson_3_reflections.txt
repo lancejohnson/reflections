@@ -21,10 +21,11 @@ stored locally?
 
     By having the last know state of the remote stored locally, you can work without internet connection.  Plus, you can keep track of the differences between your local and remote version.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+    Without Git or GitHub, I'd probably have a manual "checkout" system, where I let my collaborator(s) know when I was working on the file and vice-versa.
+
+    Manual collaboration would be ridiculously hard in general.  BUT navigating the file system would be significantly easier.  There'd be no new system with new commands to learn.  Communicating on the versions and keeping track of that manually would be significantly harder.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?

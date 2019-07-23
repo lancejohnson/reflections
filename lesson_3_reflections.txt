@@ -19,7 +19,7 @@ Describe the differences between forks, clones, and branches.  When would you us
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    By having the last know state of the remote stored locally, you can work without internet connection.  Plus, you can keep track of the differences between your local and remote version.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?

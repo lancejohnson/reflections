@@ -25,3 +25,5 @@ The result of merging two branches is it combines the features, bug fixes or wha
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+A manual merge would have the potential to take FOREVER.  In fact, you'd probably follow a similar process to what the Git automerge does, but it'd simply take longer.  The cons to merging automatically are that you may or may have to do some manual resolutions.

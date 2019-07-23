@@ -27,7 +27,6 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 
     Manual collaboration would be ridiculously hard in general.  BUT navigating the file system would be significantly easier.  There'd be no new system with new commands to learn.  Communicating on the versions and keeping track of that manually would be significantly harder.
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Any time you're trying something out that hasn't been checked by another set of eyes (or at least your own), you'll want to use a separate branch.  For collaborative projects, you merge into the master only with pull requests.
